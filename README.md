@@ -217,4 +217,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Making medical information more accessible through responsible AI*
 
+clicl : https://medibot---ai-powered-medical-assistant-anxxzig27yhtjdn3qzs7xj.streamlit.app/
+
 </div>
